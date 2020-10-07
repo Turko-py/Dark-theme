@@ -40,10 +40,12 @@ element.style {
 .trow1 {
     color: white;
     background-image: url("https://raw.githubusercontent.com/StylishThemes/GitHub-Dark/master/images/backgrounds/bg-crosshatch.png");
+    border: 0.5px solid;
 }
 .trow2 {
     color: white;
     background-image: url("https://raw.githubusercontent.com/StylishThemes/GitHub-Dark/master/images/backgrounds/bg-crosshatch.png");
+    border: 0.5px solid;
 }
 
 #panel .lower {    
