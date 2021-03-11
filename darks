@@ -1,0 +1,45 @@
+@-moz-document url-prefix("http://hubis.hitit.edu.tr/") {
+/* ==UserStyle==
+@name        Hubis-Dark-Theme
+@version     1.0.0
+@namespace   TurkoBey
+@author      TurkoBey
+==/UserStyle== */
+body {
+    background-color: rgb(36, 41, 46) !important;
+}
+.navbar.navbar-default.navbar-fixed-top.be-top-header {
+    background-color: rgb(27, 29, 35) !important;
+}
+a {
+    color: rgb(214, 216, 218) !important;
+}
+.panel {
+    background-color: rgb(27, 29, 35) !important;
+}
+.dropdown-menu {
+    color: rgb(214, 216, 218) !important;
+    background-color: rgb(27, 29, 35) !important;
+    border: 1px solid rgb(27, 29, 35) !important;
+}
+.table-striped > tbody > tr:nth-of-type(2n+1) {
+    background-color: rgb(27, 29, 35) !important;
+}
+span {
+    color: rgb(214, 216, 218) !important;
+}
+.panel-default > .panel-heading {
+    color: #563d7c;
+}
+.table > tbody > tr > td, .table > tbody > tr > th, .table > tfoot > tr > td, .table > tfoot > tr > th, .table > thead > tr > td, .table > thead > tr > th {
+    vertical-align: top;
+    color: #88aa2a;
+}
+.form-control {
+    background-color: rgb(27, 29, 35) !important;
+    color: rgb(214, 216, 218) !important;
+    }
+.col-sm-12 {
+    color: rgb(214, 216, 218);
+}
+}
